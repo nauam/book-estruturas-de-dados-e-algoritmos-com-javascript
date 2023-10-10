@@ -20,7 +20,7 @@ Este repositório contém meu progresso de estudo do livro 'Estruturas de Dados 
 - [Capítulo 14 - Designs de algoritmos e técnicas](./capitulo-14)
 - [Capítulo 15 - Complexidade de algoritmos](./capitulo-15)
 
-O livro também disponibiliza um [site com os teste](https://javascript-dsalgorithms-book.firebaseapp.com/) online. Lembre-se também de abrir as ferramentas do desenvolvedor no navegador para que veja o que está sendo gerado como saída no console.
+O livro também disponibiliza um [site com os teste](https://javascript-ds-algorithms-book.firebaseapp.com/) online. Lembre-se também de abrir as ferramentas do desenvolvedor no navegador para que veja o que está sendo gerado como saída no console.
 
 ## Recursos Adicionais
 
